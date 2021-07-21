@@ -10,7 +10,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-      - label: My New Button
+      - label: My New Button!!!
         url: '#'
         style: secondary
         has_icon: true
